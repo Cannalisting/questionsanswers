@@ -19,4 +19,4 @@ $manifest['requirements'] = array(
     )
 );
 
-$manifest['thumbnail'] = plugin_dir_url( __FILE__ ).'/static/img/thumbnails/questions.png';
+$manifest['thumbnail'] = '/static/img/thumbnails/questions.png';
